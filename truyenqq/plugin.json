@@ -1,11 +1,11 @@
 {
   "metadata": {
-    "name": "TruyenQQ No",
-    "author": "vBook",
+    "name": "TruyenQQ",
+    "author": "0xSi23",
     "version": 1,
     "source": "https://truyenqqno.com",
     "regexp": "(www.)?truyenqqno.*?/truyen-tranh/[0-9a-z-]+/?$",
-    "description": "Đọc truyện trên trang TruyenQQ No",
+    "description": "Đọc truyện trên trang TruyenQQ",
     "locale": "vi_VN",
     "language": "javascript",
     "type": "comic"
