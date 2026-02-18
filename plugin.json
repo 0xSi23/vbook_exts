@@ -1,0 +1,19 @@
+{
+  "metadata": {
+    "author": "0xSi23",
+    "description": ""
+  },
+  "data": [
+    {
+      "name": "Truyện QQ",
+      "author": "0xSi23",
+      "path": "https://github.com/0xSi23/vbook_exts/raw/refs/heads/main/truyenqq/plugin.zip",
+      "version": 1,
+      "type": "comic",
+      "locale": "vi_VN",
+      "source": "https://truyenqqno.com",
+      "icon": "https://github.com/0xSi23/vbook_exts/raw/refs/heads/main/truyenqq/icon.png",
+      "description": "Đọc truyện trên Truyện QQ"
+    }
+  ]
+}
