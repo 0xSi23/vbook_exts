@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "name": "TruyenQQ No",
+    "author": "vBook",
+    "version": 1,
+    "source": "https://truyenqqno.com",
+    "regexp": "(www.)?truyenqqno.*?/truyen-tranh/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang TruyenQQ No",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
